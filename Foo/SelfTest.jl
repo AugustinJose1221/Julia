@@ -1,3 +1,3 @@
-import Plots: pyplot, plot
-pyplot()
-plot(rand(4,4))
+x = 1
+y = 1
+println(x)
